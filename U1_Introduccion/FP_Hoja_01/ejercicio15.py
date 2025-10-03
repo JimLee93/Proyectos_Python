@@ -8,7 +8,8 @@ def calcular_nota(respuestas_correctas, respuestas_incorrectas, respuestas_en_bl
     """
     Calcula la nota final de un estudiante basado en las respuestas correctas, incorrectas 
     y en blanco.
-    5 puntos por cada respuesta correcta, -1 por cada respuesta incorrecta, y 0 por respuestas en blanco.
+    5 puntos por cada respuesta correcta, -1 por cada respuesta incorrecta, 
+    y 0 por respuestas en blanco.
     Parámetros:
     respuestas_correctas (int): Número de respuestas correctas.
     respuestas_incorrectas (int): Número de respuestas incorrectas.
